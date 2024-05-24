@@ -1,5 +1,7 @@
 #Here the automation solution is implemented using Selenium as the automation tool along with Java as the scripting language.
-#The framework is built using the Page Object Model concept along with Cucumber to implement the Behavior Driven Developement
+
+#The framework is built using the Page Object Model concept along with Cucumber to implement the Behavior Driven Developement.
+
 #Maven has been used in order to manage the files and folders of the framework.
 In order to run this framework, you need to navigate to the MyRunner.java class and Run As Junit Test. This will invoke the chrome browser and the steps mentioned in the TendableTech.feature file will get executed one by one.
 
